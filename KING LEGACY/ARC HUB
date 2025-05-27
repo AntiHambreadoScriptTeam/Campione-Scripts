@@ -1,0 +1,4 @@
+getgenv().RaidUI = false -- For Hidden Raid Mode true = show and false = hidden
+getgenv().CustomDistance = 10 -- For Bug Can't Swipe Distance
+getgenv().ResetFirstLoad = true -- For Reset First Time Load true = yes and false = no
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ChopLoris/ArcHub/main/main.lua"))()
