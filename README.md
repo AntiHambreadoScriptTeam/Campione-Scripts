@@ -5,4 +5,4 @@
 # Anti Hambreado script: 2025-20??
 # juntos hasta dejar pobre a hambreado script ✅ 
 
-![nuestro logo](https://files.catbox.moe/2f9alb.png) 
+## ![nuestro logo](https://files.catbox.moe/2f9alb.png) 
